@@ -1,0 +1,161 @@
+header{
+    width:100%;
+    height: 1000px;
+    background-image: url('hwh2.jpg');
+    opacity: 0.8;
+
+}
+nav{
+    width:100%;
+height:15vh;
+
+background:rgba(50, 187, 79, 0.76);
+opacity: 0.8;
+color:antiquewhite;
+display:flex;
+justify-content: space-between;
+text-transform: uppercase;
+align-items: center;
+
+}
+nav .menu 
+{
+width:35%;
+background:rgb(248, 248, 71);
+display:flex;
+justify-content: space-around;
+align-items:center;
+text-align: center;
+padding: 5px;
+
+
+}
+nav .menu a{
+    text-align: center;
+    width:25%;
+    text-decoration: none;
+    color:rgb(48, 14, 197);
+    font-weight: bold;
+}
+*
+{
+    font-family: 'Macondo', cursive;
+    font-weight: 400;
+    box-sizing: border-box;
+    
+}
+
+
+main{margin-left: 10px;
+
+    width:100%;
+    height: 50%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-weight: bold;
+    text-align: center;
+
+}
+section h3
+{
+    margin-top: 200px;
+    font-size: 65px;
+    font-weight: 1000px;
+    letter-spacing: 3px;
+    color:aliceblue;
+    text-shadow: 2px 2px 5px black;
+    text-transform: uppercase;
+
+}
+section h1
+{
+    font-size: 65px;
+    font-weight: 1000px;
+    letter-spacing: 3px;
+    color:rgb(35, 167, 8);
+    text-shadow: 2px 5px 5px rgb(0, 0, 0);
+    text-transform: uppercase;
+    background-color: rgb(204, 247, 232);
+ 
+
+}
+section p
+{
+    font-size: 45px;
+    font-weight: 1000px;
+    letter-spacing: 3px;
+    color:rgb(114, 240, 12);
+    text-shadow: 2px 5px 5px rgb(32, 109, 9);
+    text-transform: uppercase;
+    background-image: url('images.jpg');
+    height:120px;
+    background-repeat: no-repeat;
+   background-position: center;
+   opacity: 0.8;
+   
+    
+   
+}
+section .b1
+{
+    font-size: 25px;
+    padding: 5px;
+    color:rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    text-decoration: none;
+    border: #0c9277;
+}
+section .b2
+{
+    text-decoration: none;
+    font-size: 25px;
+    padding: 5px;
+    color:rgb(255, 255, 255);
+    background-color: #0c9277;
+    margin-left: 50px;
+
+   
+}
+nav h1{
+    font-size: 30px;
+    color:rgb(255, 255, 255);
+    text-shadow: 5px 5px 5px black;
+}
+
+nav .menu a:first-child
+{
+    color:#0c9277;
+}
+
+
+nav .menu a:first-child:hover{ 
+    font-size: 25px;
+    color: #b80000;
+}
+.y:hover{ 
+    font-size: 25px;
+    color: #b80000;
+}.z:hover{
+    font-size: 25px;
+    color: #b80000;
+}.v:hover{
+    font-size: 25px;
+    color: #b80000;
+}
+.b1:hover{
+    text-decoration: none;
+    font-size: 25px;
+    padding: 5px;
+    color:rgb(255, 255, 255);
+    background-color: #661313;
+   
+}
+.b2:hover{
+    text-decoration: none;
+    font-size: 25px;
+    padding: 5px;
+    color:rgb(255, 255, 255);
+    background-color: #581d19;
+  
+}
